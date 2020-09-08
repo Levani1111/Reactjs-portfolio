@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Levani Papashvili",
+    "occupation": "Web Developer",
+    "description": "Full Stack Software Developer by Day, Entrepreneur and Owner of LPJWeb by Night",
+    "image": "GA13Feb_Linked-11.jpg",
+    "bio": "Levani Papashvili is a web developer and designer based in the Washington DC area. With an eye for design, he is a passionate tech problem solver motivated by the desire to help and grow successful businesses. He uses his tech knowledge to offer pragmatic development solutions that are client and customer focused",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "papashvililevani@gmail.com",
+    "phone": "+1 571 253 8416",
+    "address": {
+      "street": "925 Randolph ST NW, Washington, DC",
+      "city": "Washington, DC",
+      "state": "US",
+      "zip": "20011"
+    },
+    "website": "https://levanipapashvili.com/",
+    "resumedownload": "https://docs.google.com/viewerng/viewer?url=http://levanipapashvili.com/wp-content/uploads/2020/04/Levani_Papashvili_Resume-1.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/levanipapashvili/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/l.p.11.11/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Levani1111",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Georgian Technical University, Tbilisi",
+        "degree": "BS,",
+        "graduated": "June 2007",
+        "description": "Graduated Transportation and Automotive Engineering"
+      }
+    ],
+    "work": [
+      {
+        "company": "FinTech4Good",
+        "title": "Team Member & Web Developer & Designer",
+        "years": "August 24 2020 - Present",
+        "description": "Responsible for website."
+      },
+      {
+        "company": "LPJweb",
+        "title": "Software Engineer",
+        "years": "Nov 2018 - 2020 - Present ",
+        "description": "Responsible for website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "VueJS",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe PS & Adobe XD",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+       {
+         "name": "ExpressJS",
+         "level": "50%"
+       },
+        {
+          "name": "Django",
+          "level": "60%"
+        },
+         {
+           "name": "SQL",
+           "level": "70%"
+         },
+          {
+            "name": "MySQL",
+            "level": "80%"
+          }, {
+            "name": "Python",
+            "level": "70%"
+          }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COMPONENT LIBRARY",
+        "category": "CSS REACT.JS",
+        "image": "Levani_Papashvili_06_PNG.png",
+        "url": "https://hopeful-mcclintock-f32fe9.netlify.app/?path=/story/button--primary"
+      },
+      {
+        "title": "Responsive Website",
+        "category": "HTML CSS",
+        "image": "Levani_Papashvili.png",
+        "url": "https://levani1111.github.io/"
+      },
+      {
+        "title": "UI-PATTERN",
+        "category": "HTML CSS JAVASCRIPT API",
+        "image": "Levani_Papashvili_05_PNG.png",
+        "url": "https://levani1111.github.io/ui-pattern-project/"
+      },
+      {
+        "title": "TRIVIA",
+        "category": "HTML CSS JAVASCRIPT",
+        "image": "Levani_Papashvili_02_PNG.png",
+        "url": "https://levani1111.github.io/Trivia/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Levani is a hard-working developer with strong design skills.  He is a quick learner and problem solver who would be a great asset to any team.",
+        "user": "Scott Kutler"
+      },
+      {
+        "text": "Levani Papashvili is one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, He has the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Sara Laffin"
+      }
+    ]
+  }
+}
