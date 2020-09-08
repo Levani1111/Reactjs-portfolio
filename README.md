@@ -17,6 +17,6 @@ This is a ReactJS based personal resume website template for participants of The
 - RUN <code>npm run build</code>, this command will create a build folder for you
 - DRAG AND DROP the BUILD folder on Netlify, your app is live now for the world to see
 ### Deployment
-https://peaceful-reactjs.netlify.app/
+https://reactjs-portfolio-clever-programmer.netlify.app/
 ### Author
 Levani Papashvili @2020
