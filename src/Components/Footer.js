@@ -18,8 +18,7 @@ class Footer extends Component {
             <ul>
               <li>
                 {" "}
-                Modified with love by Levani Papashvili ♥️ THANK YOU ♥️ Clever
-                Programmer team ♥️
+                Modified with love by Levani Papashvili
               </li>
             </ul>
 
