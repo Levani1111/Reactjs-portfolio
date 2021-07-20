@@ -1,4 +1,4 @@
-# Clever Programmer ReactJS Portfolio Template      
+# ReactJS Portfolio Template      
 
 ## Description
 This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever Programmer 
@@ -17,6 +17,6 @@ This is a ReactJS based personal resume website template for participants of The
 - RUN <code>npm run build</code>, this command will create a build folder for you
 - DRAG AND DROP the BUILD folder on Netlify, your app is live now for the world to see
 ### Deployment
-https://reactjs-portfolio-clever-programmer.netlify.app/
+https://reactjs-portfolio-2020.netlify.app/
 ### Author
 Levani Papashvili @2020
