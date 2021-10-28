@@ -8,7 +8,7 @@ This is a ReactJS based personal resume website template.
 - Sign up for a Netlify account <a href='https://www.netlify.com'>HERE</a>
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
 #### PROCEDURE:
-- Download the zip folder from Github and unzip it
+- Download the zip folder from Github and unzip it.
 - Open the folder in VS Code
 - Edit <code>public/resumeData.json</code> and add your personal details and projects
 - Open terminal in VS Code
