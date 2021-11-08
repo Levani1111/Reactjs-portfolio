@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 class Footer extends Component {
   render() {
 
-    if(this.props.data){
-      var networks= this.props.data.social.map(function(network){
+    if (this.props.data) {
+      var networks = this.props.data.social.map(function (network) {
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
     }
@@ -18,13 +18,13 @@ class Footer extends Component {
             <ul>
               <li>
                 {" "}
-                Modified with love by Levani Papashvili
+                Modified by Levani Papashvili
               </li>
             </ul>
 
             <ul className="copyright">
               <li>
-                &copy; All credit goes to Tim Baker - Copyright 2020 Tim Baker
+                &copy; Copyright 2021
               </li>
               <li>
                 Design by{" "}
