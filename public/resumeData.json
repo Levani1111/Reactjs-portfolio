@@ -65,7 +65,7 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "react",
         "level": "80%"
       },
       {
@@ -92,25 +92,31 @@
         "name": "MongoDB",
         "level": "80%"
       },
-       {
-         "name": "ExpressJS",
-         "level": "50%"
-       },
-        {
-          "name": "Django",
-          "level": "60%"
-        },
-         {
-           "name": "SQL",
-           "level": "70%"
-         },
-          {
-            "name": "MySQL",
-            "level": "80%"
-          }, {
-            "name": "Python",
-            "level": "70%"
-          }
+      {
+        "name": "ExpressJS",
+        "level": "50%"
+      },
+      {
+        "name": "Django",
+        "level": "60%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "WorDpress",
+        "level": "80%",
+        "fas": "fa fa-wordpress"
+      }
     ]
   },
   "portfolio": {
