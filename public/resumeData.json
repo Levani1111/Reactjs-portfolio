@@ -114,8 +114,8 @@
       },
       {
         "name": "WorDpress",
-        "level": "80%",
-        "fas": "fa fa-wordpress"
+        "fas": "['fas', 'coffee']",
+        "level": "80%"
       }
     ]
   },
